@@ -1,0 +1,218 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.section-one {
+    text-align: center;
+    background-image: url(../images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -10px;
+}
+
+.section-one img {
+    margin-top: 100px;
+}
+
+.section-one h1 {
+    color: #50555B;
+}
+
+.section-one p {
+    color: #A6A8A9;
+}
+
+.section-one .btn1 {
+    color: white;
+    background-color: #24BCA6;
+    display: inline-block;
+    padding: 15px 20px;
+    border-radius: 25px;
+    margin-top: 20px;
+    font-size: 15px;
+    border: none;
+}
+
+.section-one .btn2 {
+    color: white;
+    background-color: #5F75FE;
+    display: inline-block;
+    padding: 15px 25px;
+    border-radius: 25px;
+    margin-top: 20px;
+    font-size: 15px;
+    border: none;
+}
+
+.section-two {
+    margin-top: 120px;
+}
+
+.section-two .head-sec {
+    text-align: center;
+}
+
+.section-two .head-sec h2 {
+    color: #50555B;
+}
+
+.section-two .head-sec p {
+    color: #A6A8A9;
+}
+
+.section-two .image {
+    margin-top: 30px;
+    float: left;
+}
+
+.section-two .info {
+    float: left;
+    margin-top: 80px;
+    margin-left: 80px;
+}
+
+.section-two .info div {
+    margin-bottom: 50px;
+}
+
+.section-two .info div h3 {
+    color: #50555B;
+    font-size: 20px;
+}
+
+.section-two .info div p {
+    color: #A6A8A9;
+}
+
+.clear {
+    clear: both;
+}
+
+.section-three .head-sec {
+    text-align: center;
+    margin-top: 120px;
+}
+
+.section-three .head-sec h2 {
+    color: #50555B;
+}
+
+.section-three .head-sec p {
+    color: #A6A8A9;
+}
+
+.section-three .image img {
+    margin: 80px 300px 0px;
+}
+
+.section-four .head-sec {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.section-four .head-sec h2 {
+    color: #50555B;
+}
+
+.section-four .head-sec p {
+    color: #A6A8A9;
+}
+
+.section-four .cart {
+    margin-left: 100px;
+    margin-top: 50px;
+    text-align: center;
+    float: left;
+}
+
+.section-four .cart img {
+    margin-bottom: 10px;
+}
+
+.section-four .cart h3 {
+    color: #50555B;
+}
+
+.section-four .cart p {
+    color: #A6A8A9;
+}
+
+.section-four .images {
+    margin: 100px 100px 0px;
+}
+
+.section-four .images img {
+    width: 150px;
+    margin: 0px 50px;
+    align-items: center;
+}
+
+.section-five{
+    text-align: center;
+    margin-top: 250px;
+    margin-bottom: 150px;
+}
+
+.section-five .head-sec h2 {
+    color: #50555B;
+}
+
+.section-five .head-sec p {
+    color: #A6A8A9;
+}
+
+.section-five .btn1 {
+    color: white;
+    background-color: #24BCA6;
+    display: inline-block;
+    padding: 15px 20px;
+    border-radius: 25px;
+    margin-top: 20px;
+    font-size: 15px;
+    border: none;
+}
+
+.section-five .btn2 {
+    color: white;
+    background-color: #5F75FE;
+    display: inline-block;
+    padding: 15px 25px;
+    border-radius: 25px;
+    margin-top: 20px;
+    font-size: 15px;
+    border: none;
+}
+
+footer {
+    background-color: #F5F6F8;
+    height: 100px;
+}
+
+footer img {
+    float: left;
+    width: 70px;
+    margin: 20px 0px 0px 120px;
+}
+
+footer div {
+    float: left;
+    margin-left: 100px;
+}
+
+footer div .row {
+    float: left;
+    margin-left: 80px;
+    color: #A6A8A9;
+}
+
+footer .social {
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+footer .social img {
+    width: 20px;
+    margin: 0 5px;
+}
+
+
